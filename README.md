@@ -15,6 +15,8 @@
   <img align="center" alt="Yangz-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Yangz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Yangz-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+  <img align="center" alt="Yangz-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+          
 
   
   <img align="right" alt="Yangz-Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/2Qc-K0UbmZoAAAAM/one-piece-luffy.gif">     
