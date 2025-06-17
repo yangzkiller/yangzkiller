@@ -1,8 +1,11 @@
-# 👩🏻‍💻 Larissa Kich
+# Pedro Clisesque
 
-**`Desenvolvedora FullStack`**
+**`FullStack Developer`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+I am a Fullstack developer with a backend specialization, constantly seeking ways to apply and expand my knowledge in a dynamic and collaborative environment. I have experience with PHP, both in its pure form and with the Laravel framework, and am familiar with MVC and service repository architectures. Additionally, I am proficient in using Livewire to create dynamic and interactive interfaces within Laravel.
+My JavaScript skills, including libraries like jQuery and basic knowledge of React, complement my frontend development capabilities. I use HTML, CSS, and the Bootstrap framework to build responsive and intuitive interfaces. I have practical experience with Linux servers and Apache2, ensuring stable and secure environments, along with a solid understanding of relational databases.
+Version control is an essential part of my workflow, and I have experience with Git to ensure code integrity and traceability. Beyond my technical experience, I excel at quickly learning new technologies and methodologies and collaborating effectively with diverse teams.
+I am always ready to take on new challenges and contribute innovative solutions, maintaining a constant focus on delivering high-quality products in production environments. I am eager to join a dedicated and innovative team where I can continue to grow and enhance my skills
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
