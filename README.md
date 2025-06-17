@@ -101,14 +101,6 @@ Fast learner, team player, and always ready to face new challenges and contribut
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Vue.js" 
     title="Vue.js"
     width="30px" 
