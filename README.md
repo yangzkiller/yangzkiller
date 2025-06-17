@@ -9,7 +9,9 @@ Experience with Linux servers, Apache2, and relational databases for stable and 
 Git for version control and team collaboration.<br/>
 Fast learner, team player, and always ready to face new challenges and contribute innovative solutions.
 
-### Technologies
+---
+
+### 🤖 Technologies
 
 <img 
     align="left" 
@@ -101,28 +103,40 @@ Fast learner, team player, and always ready to face new challenges and contribut
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vue.js" 
     title="Vue.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
+
 <br/>
 <br/>
 
 ### Statistics
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=yangzkiller&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzkiller&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzkiller&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
 
+</p>
