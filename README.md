@@ -2,12 +2,12 @@
 
 **`FullStack Developer`**
 
-💻 Fullstack Developer with a backend focus, passionate about building scalable and high-quality solutions.
-🚀 Strong experience with PHP (Core + Laravel), MVC and service-repository architectures, and Livewire for dynamic interfaces.
-🌐 Frontend skills with HTML, CSS, Bootstrap, jQuery, basic React, Next.js, and Inertia.js for seamless fullstack delivery.
-🖥️ Experience with Linux servers, Apache2, and relational databases for stable and secure deployments.
-🔧 Git for version control and team collaboration.
-⚡ Fast learner, team player, and always ready to face new challenges and contribute innovative solutions.
+Fullstack Developer with a backend focus, passionate about building scalable and high-quality solutions.<br/>
+Strong experience with PHP (Core + Laravel), MVC and service-repository architectures, and Livewire for dynamic interfaces.<br/>
+Frontend skills with HTML, CSS, Bootstrap, jQuery, basic React, Next.js, and Inertia.js for seamless fullstack delivery.<br/>
+Experience with Linux servers, Apache2, and relational databases for stable and secure deployments.<br/>
+Git for version control and team collaboration.<br/>
+Fast learner, team player, and always ready to face new challenges and contribute innovative solutions.
 
 ### Technologies
 
@@ -115,14 +115,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Inertia.js" 
-    title="Inertia.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/inertiajs/inertiajs.com/main/public/favicon-32x32.png" 
-/>
 <br/>
 <br/>
 
@@ -138,7 +130,7 @@
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzkiller&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
