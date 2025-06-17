@@ -127,7 +127,7 @@ Fast learner, team player, and always ready to face new challenges and contribut
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=yangzkiller&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -135,7 +135,7 @@ Fast learner, team player, and always ready to face new challenges and contribut
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangzkiller&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
