@@ -2,45 +2,14 @@
 
 **`FullStack Developer`**
 
-I am a Fullstack developer with a backend specialization, constantly seeking ways to apply and expand my knowledge in a dynamic and collaborative environment. I have experience with PHP, both in its pure form and with the Laravel framework, and am familiar with MVC and service repository architectures. Additionally, I am proficient in using Livewire to create dynamic and interactive interfaces within Laravel.
-My JavaScript skills, including libraries like jQuery and basic knowledge of React, complement my frontend development capabilities. I use HTML, CSS, and the Bootstrap framework to build responsive and intuitive interfaces. I have practical experience with Linux servers and Apache2, ensuring stable and secure environments, along with a solid understanding of relational databases.
-Version control is an essential part of my workflow, and I have experience with Git to ensure code integrity and traceability. Beyond my technical experience, I excel at quickly learning new technologies and methodologies and collaborating effectively with diverse teams.
-I am always ready to take on new challenges and contribute innovative solutions, maintaining a constant focus on delivering high-quality products in production environments. I am eager to join a dedicated and innovative team where I can continue to grow and enhance my skills
+💻 Fullstack Developer with a backend focus, passionate about building scalable and high-quality solutions.
+🚀 Strong experience with PHP (Core + Laravel), MVC and service-repository architectures, and Livewire for dynamic interfaces.
+🌐 Frontend skills with HTML, CSS, Bootstrap, jQuery, basic React, Next.js, and Inertia.js for seamless fullstack delivery.
+🖥️ Experience with Linux servers, Apache2, and relational databases for stable and secure deployments.
+🔧 Git for version control and team collaboration.
+⚡ Fast learner, team player, and always ready to face new challenges and contribute innovative solutions.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
+### Technologies
 
 <img 
     align="left" 
@@ -65,14 +34,6 @@ I am always ready to take on new challenges and contribute innovative solutions,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -105,14 +66,6 @@ I am always ready to take on new challenges and contribute innovative solutions,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -154,11 +107,26 @@ I am always ready to take on new challenges and contribute innovative solutions,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Inertia.js" 
+    title="Inertia.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/inertiajs/inertiajs.com/main/public/favicon-32x32.png" 
+/>
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Statistics
 
 <p>
   <img 
